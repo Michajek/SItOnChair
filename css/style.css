@@ -1,0 +1,57 @@
+/*
+        color: #24BA9F   zielono niebieski.
+*/
+
+/*
+Global styles
+*/
+
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.container {
+  width: 1050px;
+  margin: 0 auto;
+}
+
+.main-header {
+  height: 40px;
+  background:black;
+  color: #fff;
+}
+.main-logo {
+  font-weight: 600;
+  float: left;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 40px;
+}
+.main-logo span {
+  font-weight: 600;
+  color: #24BA9F;
+}
+
+.main-nav {
+  float: right;
+}
+.main-nav li {
+  display: inline-block;
+  padding-left: 30px;
+}
+.main-nav a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 800;
+  line-height: 40px;
+}
