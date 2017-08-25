@@ -1,1 +1,3 @@
 # SItOnChair
+
+Przykładowy projekt CodersLab.
