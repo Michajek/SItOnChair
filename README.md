@@ -1,3 +1,0 @@
-# SItOnChair
-
-Przykładowy projekt CodersLab.
